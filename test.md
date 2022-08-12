@@ -5,3 +5,5 @@
 
 
 ![avatar](https://github.com/HIT-zhangrun/github_md_test/blob/master/pic/q.jpg)
+
+![avatar](https://github.com/HIT-zhangrun/github_md_test/blob/master/pic/头像.jpg)
